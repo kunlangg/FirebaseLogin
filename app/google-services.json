@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733430975677",
+    "project_id": "data-kawan",
+    "storage_bucket": "data-kawan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733430975677:android:a4f9ff6260265aadf97bd4",
+        "android_client_info": {
+          "package_name": "com.example.datakawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733430975677-mqtpdqae1uafcchovdp56vosver1rbf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datakawan",
+            "certificate_hash": "8cb9295ee4ebc7b45207462f1baefdfc8c46a52a"
+          }
+        },
+        {
+          "client_id": "733430975677-d21k6g9lmhikbdt6195701rjtrlbl5ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLbwoMzNNUDqeU_C-a3PVkRdGjGMqbOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733430975677-d21k6g9lmhikbdt6195701rjtrlbl5ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
